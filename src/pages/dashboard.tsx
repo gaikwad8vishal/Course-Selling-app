@@ -6,6 +6,6 @@ export function Dashboard(){
 
     return<div>
         <Navmenu/>
-        <Loginpage/>
+       
     </div>
 }
